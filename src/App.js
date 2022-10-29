@@ -8,13 +8,13 @@ import AddItem from "./components/AddItem";
 function App() {
   const products = [
     {
-      price: 19999,
-      name: "Iphone Max",
+      price: 10,
+      name: "Aloo Chips",
       quantity: 0,
     },
     {
-      price: 99999,
-      name: "Iphone pro",
+      price: 20,
+      name: "Moong Dal",
       quantity: 0,
     },
   ];
